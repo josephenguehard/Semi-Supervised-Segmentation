@@ -4,7 +4,7 @@ This repository contains the code based on our extension of Deep Embedding Clust
 
 ### Folders
 
-The main code is in the Jupyter Notebook file. The file functions.py stores many utils functions to load, preprocess and seve the data, and the file clustering_layer.py contains a Keras layer which is added on top of our network. The training and testing sets have to be added to the main directory in the subfolders datasets/iSeg2017/iSeg-2017-Training and datasets/iSeg2017/iSeg-2017-Testing
+The main code is in the Jupyter Notebook file. The file functions.py stores many utils functions to load, preprocess and save the data, and the file clustering_layer.py contains a Keras layer which is added on top of our network. The training and testing sets have to be added to the main directory in the subfolders datasets/iSeg2017/iSeg-2017-Training and datasets/iSeg2017/iSeg-2017-Testing
 
 ### Libraries
 The code requires the following configuration
